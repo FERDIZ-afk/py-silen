@@ -11,8 +11,6 @@ googlesearch-python==2020.0.2
 gunicorn==20.0.4
 html-text==0.5.2
 idna==2.10
-insta-scrape==0.2.1
-instasave==0.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 loguru==0.4.1
